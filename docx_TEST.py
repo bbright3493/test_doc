@@ -22,6 +22,10 @@ last_err = ""
 
 #sys.path.append('..\\Lib\\site-packages')
 
+def test():
+    pass
+
+
 def Init():
     global doc
     doc = Document()
